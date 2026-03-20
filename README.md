@@ -1,6 +1,3 @@
-# RoboDK-KUKA-PickPlace-Simulation
-Industrial pick-and-place simulation for 6-DOF KUKA robot in RoboDK, validated against real-world execution
-
 # 🦾 RoboDK KUKA Pick-and-Place Simulation
 
 > Industrial pick-and-place simulation for a 6-DOF KUKA robot 
