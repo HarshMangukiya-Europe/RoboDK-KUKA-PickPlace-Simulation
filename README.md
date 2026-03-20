@@ -31,7 +31,7 @@ optimise path accuracy.
 ## 🎥 Demo Videos
 | Simulation | Real Robot |
 |-----------|------------|
-| [![Simulation](https://img.shields.io/badge/YouTube-Simulation-red?logo=youtube)]([YOUR_SIMULATION_LINK](https://youtu.be/VO_BQ8oktSg)) | [![Real Robot](https://img.shields.io/badge/YouTube-Real%20Robot-red?logo=youtube)]([YOUR_REAL_ROBOT_LINK](https://youtu.be/ZGWfChhQDjE)) |
+| [![Simulation](https://img.shields.io/badge/YouTube-Simulation-red?logo=youtube)]([YOUR_SIMULATION_LINK](https://youtu.be/VO_BQ8oktSg) | [![Real Robot](https://img.shields.io/badge/YouTube-Real%20Robot-red?logo=youtube)]([YOUR_REAL_ROBOT_LINK](https://youtu.be/ZGWfChhQDjE) |
 
 ---
 
